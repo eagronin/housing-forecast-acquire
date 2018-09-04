@@ -22,7 +22,7 @@ bedrooms
 bathrooms
 rooms
 square footage
-lot size (ft^2)
+lot size (in sq. feet)
 year built
 last sale date
 last sale amount
