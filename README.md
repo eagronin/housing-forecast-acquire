@@ -8,7 +8,7 @@ Cleaning and processing of the data is described in the [next section](https://e
 The analysis for this project was performed in Python.
 
 ## Data 
-The dataset contains 15,000 records with information on single-family homes in Denver, CO.  Home values in the dataset are the Zillow "zestimates" for each home.  The other variables in the dataset are shown below:
+The dataset contains 15,000 records with information on single-family homes in Denver, CO.  Home values in the dataset are the Zillow "zestimates" for each home referred to as "estimated_value".  The other variables in the dataset are shown below:
 
 ```
 id
